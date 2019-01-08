@@ -18,6 +18,8 @@
     
     - RotationManager() -> This function(IEnumerator) is called to excute the rotation after you have set the above functions for the level.
     
+   
+  *Note all those interfaces proves a summary and parameter description on pointing at them, so you dont have to worry remembering all this. 
     
     
   Finally in your level script you should have something like this:

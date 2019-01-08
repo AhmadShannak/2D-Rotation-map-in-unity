@@ -14,7 +14,7 @@
   #### Code Interface :
     - SetSizeForAllArrays(int size) -> This function is used to set the number of how many roations change will be on the level.
     
-    - SetRotationDetails(int index, float rotationSpeed,float rotationTime,char rotationDirection) -> Those function will be called for     each time that the rotation will change on that level, in simple terms "For the first rotation make the speed of that roation = x and     keep it rotating for t seconds, and let the direction of that rotation be 'r' which means to the right".
+    - SetRotationDetails(int index, float rotationSpeed,float rotationTime,char rotationDirection) -> This function will be called each time that the rotation will change on that level, in simple terms "For the first rotation make the speed of that roation = x and keep it rotating for t seconds, and let the direction of that rotation be 'r' which means to the right".
     
     - RotationManager() -> This function(IEnumerator) is called to excute the rotation after you have set the above functions for the level.
     

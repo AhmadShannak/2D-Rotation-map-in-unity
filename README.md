@@ -4,7 +4,7 @@
   This section provide an overview of the **Rotation.cs** Code.
   The **Rotation.cs** class is a very modular class that you can use in your project to Rotate 2D objects with given direction and speed for a specific time and keep changing those values as you pleases, this code help you make levels where you need to rotate things like this without going in depth of how to do it.
   
-  ![](Rotation Repo/UnityGif.gif)
+  ![](https://github.com/AhmadShannak/2D-Rotation-map-in-unity/blob/master/Rotation%20Repo/UnityGif.gif)
   
 ## How to use it 
   All you need to use this project is to download the **Rotation.cs** file, then attach it to the gameObject that you want to control its roation.
@@ -21,4 +21,4 @@
     
   Finally in your level script you should have something like this:
   
-  ![howToUseIt](Rotation Repo/HowToUse.png)
+  ![howToUseIt](https://github.com/AhmadShannak/2D-Rotation-map-in-unity/blob/master/Rotation%20Repo/HowToUse.png)

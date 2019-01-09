@@ -7,6 +7,8 @@
   
   ![](https://github.com/AhmadShannak/2D-Rotation-map-in-unity/blob/master/Rotation%20Repo/UnityGif.gif)
   
+  ***Note that the circle aint well made, which make the rotation look like its bugged.So dont worry it will work fine with any fine made sprites***
+  
 ## How to use it 
   All you need to use this project is to download the **Rotation.cs** file, then attach it to the gameObject that you want to control its roation.
   
